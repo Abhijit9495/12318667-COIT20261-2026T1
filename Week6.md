@@ -6,8 +6,7 @@ In Week 6, the tutorial was about how the devices translate IP addresses
 to hardware addresses through the assistance of ARP, and how the default
 gateways make communication between various networks possible.
 
-![](media/image1.png){width="4.315574146981628in"
-height="3.25in"}
+![](media/image8.png)
 
 **Figure 1: Evaluation Results of Node2Vec and LightGCN Models Using
 Precision, Recall, and NDCG Metrics**
@@ -23,9 +22,7 @@ the IP address of Host B to the hardware (MAC) address of Host B was
 done. This indicated the way in which ARP is used to list the devices in
 the local network dynamically in a table.
 
-![](media/image2.png){width="5.770833333333333in"
-height="0.7213538932633421in"}
-
+![](media/image9.png)
 **Figure 2: Final Portfolio Structure**
 
 Then, when another host (Host C) communicated with Host A, the ARP table
@@ -36,8 +33,7 @@ REACHable, which is a valid and active connection. With time, I realised
 that entries that are not in use can be cleared, indicating that ARP
 tables are dynamic and temporary.
 
-![](media/image3.png){width="4.8028652668416445in"
-height="4.145833333333333in"}
+![](media/image10.png)
 
 **Figure 3: Output Results**
 

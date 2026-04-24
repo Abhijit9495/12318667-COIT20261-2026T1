@@ -13,10 +13,9 @@ and each host was assigned its own IP address in this IP network.
 
 There were three methods of setting up the static IP addresses:
 
-***GNS3 Configuration Interface:***
+**_GNS3 Configuration Interface:_**
 
-![](media/image1.png){width="4.214354768153981in"
-height="2.370573053368329in"}
+![](media/image2.png)
 
 **Figure 1: Proxy Configuration Screen During Linux Installation**
 
@@ -25,12 +24,12 @@ hosts to set the IP addresses. This is a simple approach that enables
 users to set network settings prior to the node being booted, and is
 also maintained across reboots.
 
-***Manual Setup with /etc/network/interfaces:***
+**_Manual Setup with /etc/network/interfaces:_**
 
 On the third host, the IP was manually assigned by changing the
 /etc/network/interfaces file with the help of a text editor (nano).
 
-***Using the ip Command:***
+**_Using the ip Command:_**
 
 This IP command achieves changes without a restart of the interface and
 is short-lived and will not persist after a reboot.

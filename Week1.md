@@ -6,8 +6,7 @@ During Week 1, the focus was to learn about the unit structure, install
 the necessary tools and have some basic familiarity with network
 simulation with GNS3.
 
-![](media/image1.png){width="2.914501312335958in"
-height="4.090277777777778in"}
+![](media/image1.png)
 
 **Figure 1: UTM Virtual Machine Interface -- Initial Setup Screen**
 
@@ -17,8 +16,7 @@ maintain a GitHub portfolio and a weekly progress report. This gave a
 precise guideline of what was expected, a technical documentation,
 reflections, and frequent updates.
 
-![](media/image2.png){width="4.714505686789152in"
-height="2.6519094488188975in"}
+![](media/image2.png)
 
 **Figure 2: Virtual Machine Hardware Configuration (Memory and CPU
 Allocation)**
@@ -30,8 +28,7 @@ testing networking concepts. These tools needed to be identified and
 installed in order to allow the further smooth workflow in the following
 weeks.
 
-![](media/image2.png){width="5.467903543307087in"
-height="3.075695538057743in"}
+![](media/image2.png)
 
 **Figure 3: Linux Virtual Machine Boot Configuration Using ISO Image**
 

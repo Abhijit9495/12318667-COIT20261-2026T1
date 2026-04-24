@@ -13,8 +13,7 @@ subnet), and the third host connected directly to the router (another
 subnet). This installation made it possible to communicate between the
 two networks.
 
-![](media/image1.png){width="4.89769028871391in"
-height="2.9166666666666665in"}
+![](media/image3.png)
 
 **Figure 1: Portfolio Update with Weekly Progress**
 
@@ -29,14 +28,13 @@ subnets, the router was altered. Forwarding on the hosts was turned off
 (net.ipv4.ip_forward=0) to make the hosts act as end devices but not as
 routers.
 
-![](media/image2.png){width="4.802083333333333in"
-height="5.4375in"}
+![](media/image4.png)
 
 **Figure 2: Linux Virtualisation engine**
 
 After all the nodes had been started, I typed in the following command:
 
-***ip route show***
+**_ip route show_**
 
 In order to connect the hosts, I used ping tests between different hosts
 within dissimilar subnets. The router was correctly routing packets
@@ -44,8 +42,7 @@ inter-networks, which was manifested by the effective responses.
 Evidence was captured in the form of Routing table screenshots, IP
 settings and ping output.
 
-![](media/image3.png){width="2.8603226159230095in"
-height="2.986111111111111in"}
+![](media/image5.png)
 
 **Figure 3: Hardware**
 

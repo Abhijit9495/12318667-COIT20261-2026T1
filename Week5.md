@@ -12,8 +12,7 @@ the same subnet to check basic connectivity. After starting all the
 nodes, I made sure that all of the hosts could communicate with other
 hosts using ping.
 
-![](media/image1.png){width="5.909722222222222in"
-height="2.9079002624671917in"}
+![](media/image1.png)
 
 **Figure 1: Testing Results and Command Output**
 
@@ -27,8 +26,7 @@ cross-communication was not possible. This showed the isolation of
 network traffic by VLANs. I also checked ARP tables to determine how
 addresses got learned only by the devices in its VLAN.
 
-![](media/image2.png){width="4.878898731408574in"
-height="3.2916666666666665in"}
+![](media/image6.png)
 
 **Figure 2: Reflection and Learning Summary in Portfolio**
 
@@ -40,8 +38,7 @@ between the switch and port eth0.
 The router has been configured to allow the traffic of various VLANs by
 configuring the switch port.
 
-![](media/image3.png){width="5.851383420822398in"
-height="3.451388888888889in"}
+![](media/image7.png)
 
 **Figure 3: Code Execution and Output Verification**
 
