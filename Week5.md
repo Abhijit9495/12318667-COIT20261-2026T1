@@ -12,7 +12,7 @@ the same subnet to check basic connectivity. After starting all the
 nodes, I made sure that all of the hosts could communicate with other
 hosts using ping.
 
-![](media/image1.png)
+![](media/image2.png)
 
 **Figure 1: Testing Results and Command Output**
 
