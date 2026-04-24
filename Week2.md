@@ -34,8 +34,7 @@ On the third host, the IP was manually assigned by changing the
 This IP command achieves changes without a restart of the interface and
 is short-lived and will not persist after a reboot.
 
-![](media/image1.png){width="5.888889982502187in"
-height="3.3125in"}
+![](media/image2.png)
 
 **Figure 2: Markdown File Rendering**
 
@@ -44,8 +43,7 @@ executed on each of the nodes to make sure that all the IP addresses
 were assigned. Evidence in the form of screenshots of the console output
 of each host and the network topology was taken.
 
-![](media/image2.png){width="4.463658136482939in"
-height="3.263888888888889in"}
+![](media/image11.png)
 
 **Figure 3: First Portfolio Entry Commit**
 
